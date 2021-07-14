@@ -48,12 +48,10 @@ To see how you can add code snippets, see below:
 .proud-of-this-css {
   color: papayawhip;
 }
-
-
-
+```
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@AgiTochka](https://www.frontendmentor.io/profile/AgiTochka)
+- Twitter - [@agatochka567](https://www.twitter.com/agatochka567)
 
