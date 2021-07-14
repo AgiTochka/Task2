@@ -1,0 +1,81 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+}
+.attribution a {
+  color: hsl(277, 64%, 61%);
+}
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+}
+h1 b {
+  color: hsl(277, 64%, 61%);
+}
+h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+}
+
+body {
+  background-color: hsl(233, 47%, 7%);
+}
+.parent {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  overflow: auto;
+}
+.main {
+  background-color: hsl(244, 38%, 16%);
+  display: flex;
+  flex-direction: row;
+  align-content: stretch;
+  width: 70%;
+  border-radius: 15px 15px 15px 15px;
+}
+.block1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 45%;
+  padding: 5%;
+}
+.block1 p {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: hsl(0, 0%, 100%, 0.75);
+}
+.block2 {
+  background-color: hsl(277, 64%, 61%);
+  width: 55%;
+  border-radius: 0px 15px 15px 0px;
+}
+.block2 img {
+  opacity: 0.6;
+  border-radius: 0px 15px 15px 0px;
+}
+.text {
+}
+.static {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.static p {
+  font-family: "Lexend Deca";
+  font-weight: 400;
+  color: hsl(0, 0%, 100%, 0.6);
+  text-transform: uppercase;
+  font-size: 15px;
+}
